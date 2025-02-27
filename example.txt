@@ -2,6 +2,8 @@
 
 Open NOtion website for clear vizuvalization
 
+Changes made for new branch
+
 
 ## **1. Configuration & Setup**
 
