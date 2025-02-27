@@ -5,6 +5,8 @@ Open NOtion website for clear vizuvalization
 Changes made for new branch
 
 
+Added copywright file to folder
+
 ## **1. Configuration & Setup**
 
 | **Command** | **Description** |
