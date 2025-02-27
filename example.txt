@@ -1,5 +1,8 @@
 # GIT COMMANDS
 
+Open NOtion website for clear vizuvalization
+
+
 ## **1. Configuration & Setup**
 
 | **Command** | **Description** |
@@ -107,3 +110,5 @@
 - If you **want all future versions to remain open-source**, use **GPL**.
 - If you **want to restrict branding usage**, use **BSD 3-Clause**.
 - If your repo is **not code-related**, use **Creative Commons**.
+
+Login NOtion THROUGH personal mail
