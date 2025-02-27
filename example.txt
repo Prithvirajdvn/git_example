@@ -8,8 +8,8 @@ Changes made for new branch
 Making changes through master branch
 
 
+<<<<<<< HEAD
 TCS company exam
-
 
 ## **1. Configuration & Setup**
 
