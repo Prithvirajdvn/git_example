@@ -5,7 +5,8 @@ Open NOtion website for clear vizuvalization
 Changes made for new branch
 
 
-Added copywright file to folder
+Making changes through master branch
+
 
 ## **1. Configuration & Setup**
 
